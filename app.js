@@ -1,4 +1,3 @@
-require("dotenv").config();
 const config = require("./utils/config");
 const express = require("express");
 require("express-async-errors");
